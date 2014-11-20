@@ -1,0 +1,69 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+// ------------------------------------------------------------------*/
+.markItUp .H1 a {
+	background-image:url(images/h1.png); 
+}
+.markItUp .H2 a {
+	background-image:url(images/h2.png); 
+}
+.markItUp .H3 a {
+	background-image:url(images/h3.png); 
+}
+.markItUp .H4 a {
+	background-image:url(images/h4.png); 
+}
+.markItUp .H5 a {
+	background-image:url(images/h5.png); 
+}
+
+.markItUp .Bold a {
+	background-image:url(images/bold.png);
+}
+.markItUp .Italic a {
+	background-image:url(images/italic.png);
+}
+.markItUp .Stroke a {
+	background-image:url(images/stroke.png);
+}
+
+.markItUp .Bullet a {
+	background-image:url(images/list-bullet.png);
+}
+.markItUp .Numeric a {
+	background-image:url(images/list-numeric.png);
+}
+
+.markItUp .Picture a {
+	background-image:url(images/picture.png); 
+}
+.markItUp .Link a {
+	background-image:url(images/link.png);
+}
+.markItUp .Url a {
+	background-image:url(images/url.png);
+}
+
+.markItUp .Quotes a	{
+	background-image:url(images/quotes.png);
+}
+.markItUp .Code a	{
+	background-image:url(images/code.png);
+}
+
+.markItUp .preview a {
+	background-image:url(images/preview.png);
+}
+
+.markItUp .date a {
+	background-image:url(images/date.png);
+}
+
+.markItUp .wikize a {
+	background-image:url(images/link.png);
+}
+
+.markItUp .save a {
+	background-image:url(images/disk.png);
+	
